@@ -1,1 +1,1 @@
-# Blog Platform ept
+# Blog Platform ept scit
