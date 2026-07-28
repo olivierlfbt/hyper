@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Getting Started with Python",
+    "category": "Programming",
+    "content": "Introduction article...",
+    "todos": [
+      {
+        "title": "Add screenshots",
+        "completed": false
+      }
+    ]
+  }
+]
